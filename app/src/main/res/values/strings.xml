@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListOfBearsHomework</string>
+    <string name="ranking">TextView</string>
+    <string name="textview">bear_rankin</string>
+</resources>
